@@ -1,0 +1,18 @@
+.footer {
+    background-color: #00A3FF;
+    height: 4em;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: #FFF;
+}
+
+.logo {
+    width: 40px;
+}
+
+.logoSec{
+    margin-right: auto;
+}
